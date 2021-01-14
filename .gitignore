@@ -15,6 +15,7 @@ engines/**/build
 **/.gradle
 **/out/
 **/.cargo
+**/Cargo.lock
 **/perf.data*
 **/flamegraph.svg
 wiki-articles.json.bz2
